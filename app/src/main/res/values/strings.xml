@@ -3,4 +3,11 @@
     <string name="ilham_yudiatmoko">Ilham Yudiatmoko</string>
     <string name="nice_to_see_you_again">Nice to see you again!</string>
     <string name="banner_text">Wash Everywhere, Everytime with our subscription only for IDR 49.000/Month</string>
+    <string name="click_for_more">Click for more</string>
+    <string name="sedan">Sedan</string>
+    <string name="suv">SUV</string>
+    <string name="jeep">Jeep</string>
+    <string name="bus">Bus</string>
+    <string name="motocycle">Motocycle</string>
+    <string name="super_motocycle">Super Motocycle</string>
 </resources>
