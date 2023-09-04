@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cuci Mobil Condet</string>
+    <string name="text_header_name">Halo! Ilham</string>
+    <string name="text_header_greetings">Senang melihat anda kembali</string>
+    <string name="text_banner_click_more">Klik untuk selengkapnya</string>
+    <string name="text_banner_desc">Cuci dimanapun, kapanpun dengan berlangganan hanya Rp. 49.000 / Bulan</string>
+    <string name="text_your_balance">Saldo Anda</string>
+</resources>

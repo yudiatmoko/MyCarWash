@@ -1,13 +1,18 @@
 <resources>
-    <string name="app_name">My Car Wash</string>
-    <string name="ilham_yudiatmoko">Ilham Yudiatmoko</string>
-    <string name="nice_to_see_you_again">Nice to see you again!</string>
-    <string name="banner_text">Wash Everywhere, Everytime with our subscription only for IDR 49.000/Month</string>
-    <string name="click_for_more">Click for more</string>
-    <string name="sedan">Sedan</string>
-    <string name="suv">SUV</string>
-    <string name="jeep">Jeep</string>
-    <string name="bus">Bus</string>
-    <string name="motocycle">Motocycle</string>
-    <string name="super_motocycle">Super Motocycle</string>
+    <string name="app_name">Condet Car Wash</string>
+    <string name="text_header_name">Hello! Ilham</string>
+    <string name="text_header_greetings">Nice to see you again !</string>
+    <string name="text_banner_click_more">Click for more detail</string>
+    <string name="text_banner_desc">Wash everywhere, anytime with our subscription only for IDR 49.000/Month</string>
+    <string name="text_your_balance">Your Balance</string>
+    <string name="text_user_balance" translatable="false">Rp. 800.000</string>
+    <string name="text_top_up" translatable="false">Top Up</string>
+    <string name="text_via_vca" translatable="false">Via BCA</string>
+    <string name="text_menu_1" translatable="false">Sedan</string>
+    <string name="text_menu_2" translatable="false">SUV</string>
+    <string name="text_menu_3" translatable="false">Jeep</string>
+    <string name="text_menu_4" translatable="false">Bus</string>
+    <string name="text_menu_5" translatable="false">Truck</string>
+    <string name="text_menu_6" translatable="false">Motorcycle</string>
+    <string name="text_menu_7" translatable="false">Super Motocycle</string>
 </resources>
